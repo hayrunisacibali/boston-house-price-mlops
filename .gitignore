@@ -1,0 +1,10 @@
+.venv/
+pyvenv.cfg
+__pycache__/
+.ipynb_checkpoints/
+mlruns/
+mlflow.db
+predictions.db
+notebooks/mlruns/
+notebooks/*.csv
+df
